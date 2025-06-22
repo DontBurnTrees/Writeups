@@ -6,7 +6,8 @@
 
 ## Active recon
 - Doing a simple nmap scan on the target
-    ```root@ip-10-10-74-56:~# nmap -T4 thm.ham
+    ```
+    root@ip-10-10-74-56:~# nmap -T4 thm.ham
     Starting Nmap 7.80 ( https://nmap.org ) at 2025-06-22 10:52 BST
     Nmap scan report for thm.ham (10.10.176.14)
     Host is up (0.0067s latency).
@@ -19,7 +20,8 @@
 
 - Not finding a lot with the quick scan so i decide to do a more complete scan
 
-    ```root@ip-10-10-74-56:~# nmap thm.ham -A -p- -T4 -sS -oN fscan_hammer.txt
+    ```
+    root@ip-10-10-74-56:~# nmap thm.ham -A -p- -T4 -sS -oN fscan_hammer.txt
     Starting Nmap 7.80 ( https://nmap.org ) at 2025-06-22 11:01 BST
     Nmap scan report for thm.ham (10.10.176.14)
     Host is up (0.00061s latency).
