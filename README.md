@@ -1,3 +1,3 @@
 # Writeups
 
-[DontBurnTrees Writeups](https://dontburntrees.gitbook.io/dontburntrees)
+Find my CTF writeups in a clearer format on [GitBook](https://dontburntrees.gitbook.io/dontburntrees).
