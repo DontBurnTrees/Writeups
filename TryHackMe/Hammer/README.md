@@ -17,6 +17,7 @@
     MAC Address: 02:36:10:64:94:6F (Unknown)
 
     Nmap done: 1 IP address (1 host up) scanned in 0.46 seconds
+    ```
 
 - Not finding a lot with the quick scan so i decide to do a more complete scan
 

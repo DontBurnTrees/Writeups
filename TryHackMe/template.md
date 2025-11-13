@@ -1,28 +1,30 @@
-# Challenge Name
+## Room:  ... 
 
-*room picture*
-<!--  ![alt text](xdesc.png)  -->
+##### Description:    ...
 
-## Introduction 
-- Description of the box
+## Recon & Enumeration
 
-## Active recon (part 1)
-- First step
-- Second step
+All ports tcp scan:
+```
+```
+- ... 
 
-*A question ?*
-**QX.X** -  `answer` 
+*Question ?*    
+**QX** - `answer`
+
 
 ## Exploitation
-- First step
-- Second step
 
-*A question ?*
-**QX.X** -  `answer`
+- ... 
+
+*Question ?*    
+**QX** - `answer`
 
 ## Privilege escalation
-- First step
-- Second step
 
-*A question ?*
-**QX.X** -  `answer`
+- ... 
+
+*Question ?*    
+**QX** - `answer`
+
+### Date: DD/MM/YYYY
