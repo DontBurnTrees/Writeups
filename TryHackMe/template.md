@@ -2,6 +2,8 @@
 
 ##### Description:    ...
 
+#### Difficulty: ... 
+
 ## Recon & Enumeration
 
 All ports tcp scan:

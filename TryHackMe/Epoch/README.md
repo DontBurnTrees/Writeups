@@ -1,6 +1,8 @@
-## Room:  Epoch
+## Room:  Epoch 
 
-##### Description:    Be honest, you have always wanted an online tool that could help you convert UNIX dates and timestamps! Wait... it doesn't need to be online, you say? Are you telling me there is a command-line Linux program that can already do the same thing? Well, of course, we already knew that! Our website actually just passes your input right along to that command-line program!
+##### Description:   Be honest, you have always wanted an online tool that could help you convert UNIX dates and timestamps!  
+
+#### Difficulty: Easy 
 
 ## Recon & Enumeration
 
@@ -20,7 +22,8 @@ PORT   STATE SERVICE
 
 - I enumerated the directories however I had no idea where to find the flag, thanks to the hint I was able to find the flag with the following payload `1763025890 ; env`
 
-*Find the flag in this vulnerable web application!*  
+*Find the flag in this vulnerable web application!*
 **Q1** - `flag{7da6c7[...]bd9b647}`
+
 
 ### Date: 13/11/2025
